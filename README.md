@@ -1,4 +1,4 @@
-# CSE-3541---Custom-Raytrace
+# CSE-3541-Custom-Raytrace
 
 Inputs:
 [Space] => Rotate camera around the scene (hit play and enjoy the view :>)
