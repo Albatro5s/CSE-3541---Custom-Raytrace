@@ -18,6 +18,9 @@ CPU Raytracer:
 	fleshed out and complete. 
 	
  - Includes dynamic shading utilizing point, spot, and directional lights.
+ 
+![CPU_Raytrace_before](https://user-images.githubusercontent.com/49098697/189493245-4061fadd-1850-4455-bee0-6f6c33b71051.PNG) ![CPU_Raytrace_after](https://user-images.githubusercontent.com/49098697/189493251-c9ec2f40-4fbd-439c-b9ba-b265c96bb67e.PNG)
+
 
 GPU Raytracer:
  - The second renders a random selection of spheres of varying sizes on a plane to show
@@ -28,6 +31,9 @@ GPU Raytracer:
  - Includes full reflections (based on an energy system so they don't reflect forever),
 	anti-aliasing (only while camera is still - anti-aliasing only properly renders 
 	while the objects are immobile), directional lighting effects, and hard shadows. 
+	
+	![GPU_Raytrace](https://user-images.githubusercontent.com/49098697/189493261-261f973b-caa7-4a47-919e-b543c3b2a935.PNG)
+
 
 While neither included as many features as I'd anticipated, it was fun developing two
 different styles of renderer. I hope to continue this project in my spare time to
