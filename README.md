@@ -19,7 +19,8 @@ CPU Raytracer:
 	
  - Includes dynamic shading utilizing point, spot, and directional lights.
  
-![CPU_Raytrace_before](https://user-images.githubusercontent.com/49098697/189493245-4061fadd-1850-4455-bee0-6f6c33b71051.PNG) ![CPU_Raytrace_after](https://user-images.githubusercontent.com/49098697/189493251-c9ec2f40-4fbd-439c-b9ba-b265c96bb67e.PNG)
+![CPU_Raytrace_before](https://user-images.githubusercontent.com/49098697/189493245-4061fadd-1850-4455-bee0-6f6c33b71051.PNG)![CPU_Raytrace_after](https://user-images.githubusercontent.com/49098697/189493323-e343e7b9-841a-4ba8-af51-aaff0bd52d75.PNG)
+
 
 
 GPU Raytracer:
