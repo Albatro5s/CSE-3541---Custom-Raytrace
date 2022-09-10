@@ -29,7 +29,7 @@ GPU Raytracer:
 	shape, size, etc. using compute shaders in Unity. The languages I used were 
 	C# for scripts and HLSL for the shader programming. 
 
- - Includes full reflections (based on an energy system so they don't reflect forever),
+ - Includes full reflections (based on an energy system so they don't reflect forever + Lambert diffuse for varying reflection amounts!),
 	anti-aliasing (only while camera is still - anti-aliasing only properly renders 
 	while the objects are immobile), directional lighting effects, and hard shadows. 
 	
